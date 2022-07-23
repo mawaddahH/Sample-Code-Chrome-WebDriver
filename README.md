@@ -6,7 +6,8 @@ Write a simple program in Java using selenium to evoke Chrome Browser.
 
 
 # Answer
-Before run the code , there are some steps need to take consider:
+before running the code, there are some steps that need to take considered:
+
 
 First:
 Setup Latest Driver for Chrome  Driver.
